@@ -7,9 +7,8 @@ I'm <i>João Vitor</i>, Computer Science Student at UFPR & Developer Intern at <
 🚀⠀ Always learning new technologies\
 🌎⠀ Proudly from [Curitiba, Brazil](https://goo.gl/maps/i9avztMtWcTyqmqK7) 🇧🇷
 
-<img title="João Vitor's Github Stats" alt="João Vitor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jvmoreira&show_icons=true&theme=tokyonight&line_height=27">
-
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jvmoreira)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moreira-jvm/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:themoreira.jvm@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jvmoreiracwb/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/jvmoreiracwb/)\
+<img title="João Vitor's Github Stats" alt="João Vitor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jvmoreira&show_icons=true&theme=tokyonight&line_height=27">
