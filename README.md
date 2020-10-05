@@ -4,13 +4,13 @@ I'm <i>João Vitor</i>, Computer Science Student at UFPR & Developer Intern at <
 
 🔭⠀ I'm currently focused on improving my portfolio\
 ⚙️⠀ I like to do stuff using
-![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=flat&logo=Javascript&logoColor=white)
-![VueJs](https://img.shields.io/badge/-VueJs-44b883?style=flat&logo=Vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-00d6d6?style=flat&logo=react&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?style=flat&logo=laravel&logoColor=white)
-![C/C++](https://img.shields.io/badge/-C/C++-17394a?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=laravel&logoColor=white)\
+![Javascript](https://img.shields.io/badge/--yellow?style=flat&logo=Javascript&logoColor=white)
+![VueJs](https://img.shields.io/badge/--44b883?style=flat&logo=Vue.js&logoColor=white)
+![React](https://img.shields.io/badge/--00d6d6?style=flat&logo=react&logoColor=white)
+![PHP](https://img.shields.io/badge/--777bb4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/--ff2d20?style=flat&logo=laravel&logoColor=white)
+![C/C++](https://img.shields.io/badge/--17394a?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/--3776ab?style=flat&logo=laravel&logoColor=white)\
 🚀⠀ Always learning new technologies\
 🌎⠀ Proudly from [Curitiba, Brazil](https://goo.gl/maps/i9avztMtWcTyqmqK7) 🇧🇷
 
