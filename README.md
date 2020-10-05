@@ -2,7 +2,7 @@
 
 I'm <i>João Vitor</i>, Computer Science Student at UFPR & Developer Intern at <a href="https://ebanx.com" target="_blank" title="EBANX"><img title="EBANX" height="15px" src="https://www.ebanx.com/wp-content/themes/ebanx/images/logo.svg" /></a>
 
-🔭⠀ I'm currently focused in improving my portfolio\
+🔭⠀ I'm currently focused on improving my portfolio\
 ⚙️⠀ I like to do stuff using `.js`, `.vue`, `.php`, `.c`, `.cpp` & `.py`\
 🚀⠀ Always learning new technologies\
 🌎⠀ Proudly from [Curitiba, Brazil](https://goo.gl/maps/i9avztMtWcTyqmqK7) 🇧🇷
