@@ -4,13 +4,13 @@ I'm <i>João Vitor</i>, Computer Science Student at UFPR & Developer Intern at <
 
 🔭⠀ I'm currently focused on improving my portfolio\
 ⚙️⠀ I like to do stuff using
-![Javascript](https://img.shields.io/badge/--yellow?style=flat&logo=Javascript&logoColor=white)
-![VueJs](https://img.shields.io/badge/--44b883?style=flat&logo=Vue.js&logoColor=white)
-![React](https://img.shields.io/badge/--00d6d6?style=flat&logo=react&logoColor=white)
-![PHP](https://img.shields.io/badge/--777bb4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/--ff2d20?style=flat&logo=laravel&logoColor=white)
-![C/C++](https://img.shields.io/badge/--17394a?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/--3776ab?style=flat&logo=laravel&logoColor=white)\
+<img title="Javascript" alt="Javascript" src="https://img.shields.io/badge/--yellow?style=flat&logo=Javascript&logoColor=white" />
+<img title="VueJs" alt="VueJs" src="https://img.shields.io/badge/--44b883?style=flat&logo=Vue.js&logoColor=white" />
+<img title="React" alt="React" src="https://img.shields.io/badge/--00d6d6?style=flat&logo=react&logoColor=white" />
+<img title="PHP" alt="PHP" src="https://img.shields.io/badge/--777bb4?style=flat&logo=php&logoColor=white" />
+<img title="Laravel" alt="Laravel" src="https://img.shields.io/badge/--ff2d20?style=flat&logo=laravel&logoColor=white" />
+<img title="C/C++" alt="C/C++" src="https://img.shields.io/badge/--17394a?style=flat&logo=c%2B%2B&logoColor=white" />
+<img title="Python" alt="Python" src="https://img.shields.io/badge/--3776ab?style=flat&logo=python&logoColor=white" />\
 🚀⠀ Always learning new technologies\
 🌎⠀ Proudly from [Curitiba, Brazil](https://goo.gl/maps/i9avztMtWcTyqmqK7) 🇧🇷
 
