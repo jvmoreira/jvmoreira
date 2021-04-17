@@ -9,7 +9,7 @@ I'm <i>João Vitor</i>, Computer Science Student at UFPR & Software Engineer at 
 <img title="Next.js" alt="Next.js" src="https://img.shields.io/badge/--000000?style=flat&logo=next.js&logoColor=white" />
 <img title="VueJs" alt="VueJs" src="https://img.shields.io/badge/--44b883?style=flat&logo=Vue.js&logoColor=white" />
 <img title="PHP" alt="PHP" src="https://img.shields.io/badge/--777bb4?style=flat&logo=php&logoColor=white" />
-<img title="Laravel" alt="Laravel" src="https://img.shields.io/badge/--ff2d20?style=flat&logo=laravel&logoColor=white" />
+<img title="Laravel" alt="Laravel" src="https://img.shields.io/badge/--ff2d20?style=flat&logo=laravel&logoColor=white" />\
 🚀⠀ Always learning new technologies\
 🌎⠀ Proudly from [Curitiba, Brazil](https://goo.gl/maps/i9avztMtWcTyqmqK7) 🇧🇷
 
