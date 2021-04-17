@@ -16,5 +16,5 @@ I'm <i>João Vitor</i>, Computer Science Student at UFPR & Software Engineer at 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jvmoreira)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moreira-jvm/)
 [![Gmail](https://img.shields.io/badge/-Gmail-db4438?style=flat&logo=Gmail&logoColor=white)](mailto:themoreira.jvm@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/joaovitorrr.m/)\
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/joaovitorrr.m/)
 <!-- <img title="João Vitor's Github Stats" alt="João Vitor's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jvmoreira&show_icons=true&theme=tokyonight&line_height=27"> -->
