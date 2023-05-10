@@ -1,6 +1,6 @@
 ### Hello and welcome!
 
-I'm <i>João Vitor</i>, Computer Scientist from UFPR & Software Engineer at <a href="https://ebanx.com" target="_blank" title="EBANX"><img title="EBANX" height="15px" src="https://www.ebanx.com/wp-content/themes/ebanx/images/logo.svg" /></a>
+I'm <i>João Vitor</i>, Computer Scientist from UFPR & Software Engineer at <a href="https://ebanx.com" target="_blank" title="EBANX"><img title="EBANX" height="15px" src="https://a.storyblok.com/f/168569/x/77c78670aa/ebanx-logo-white.svg" /></a>
 
 🔭⠀ I'm currently focused on improving my portfolio\
 ⚙️⠀ I like to do stuff using
